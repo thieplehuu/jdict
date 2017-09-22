@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "email",
+            "type": "string"
+        },
+        {
+            "name": "password",
+            "type": "string"
+        },
+        {
+            "name": "role_id",
+            "type": "integer"
+        },
+        {
+            "name": "remember_token",
+            "type": "string"
+        }
+    ]
+}

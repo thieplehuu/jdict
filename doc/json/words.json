@@ -1,0 +1,16 @@
+{
+    "fields": [
+        {
+            "name": "word",
+            "type": "string"
+        },
+        {
+            "name": "furigana",
+            "type": "string"
+        },
+        {
+            "name": "related",
+            "type": "string"
+        }
+    ]
+}

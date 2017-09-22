@@ -1,0 +1,5 @@
+// create Categories Controller
+php artisan crud:generate Categories --fields_from_file="doc/json/categories.json" --model-namespace App\Models
+
+// create Categories Controller
+php artisan crud:generate Words --fields_from_file="doc/json/words.json" --model-namespace App\Models
